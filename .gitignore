@@ -1,0 +1,18 @@
+﻿# MATLAB autosave / backup
+*.asv
+*.m~
+*.autosave
+
+# MATLAB/Simulink generated cache/build output
+slprj/
+*_grt_rtw/
+*.slxc
+*.mex*
+*.pdb
+
+# Large local data export exceeds GitHub single-file limit
+FlyData.xlsx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
